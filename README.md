@@ -4,8 +4,10 @@
 ## Hello! :D
 I'm David, and I am a hobbyist programmer who likes making random stuff.
 
+Here's my [personal site](https://goobusthenoobus.github.io/PersonalSite/). It is quite basic, since it was made at school during class.
+
 ## About me
-- 🔭 I’m currently working on an interpreter and creating a personal site!
+- 🔭 I’m currently working on an interpreter.
 - 🌱 I’m currently learning C++.
 - 😄 Pronouns: He/Him
 - 🚫 I am against the use of LLM generated code in my projects.
