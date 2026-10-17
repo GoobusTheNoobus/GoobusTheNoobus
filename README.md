@@ -2,13 +2,18 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)
 
 ## Hello! :D
-I'm David, and I am a hobbyist programmer who likes making random stuff.
+I'm David, and I am a 14 y.o. hobbyist programmer who likes building random stuff.
 
-Here's my [personal site](https://goobusthenoobus.github.io/PersonalSite/). It is quite basic, since it was made at school during class.
+[Personal Site](https://goobusthenoobus.github.io/PersonalSite/) · [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
 
 ## About me
-- 🔭 I’m currently working on an interpreter.
-- 🌱 I’m currently learning C++.
-- 😄 Pronouns: He/Him
-- 🚫 I am against the use of LLM generated code in my projects.
-- ✝ **Philippians 4:13**
+- Pronouns: He/Him
+- I prefer understanding my code over blindly copying solutions
+- I am against the use of LLM generated code in my projects, as I accomplish nothing that way
+- **Philippians 4:13** *"I can do all things through him who strengthens me."*
+
+## Technologies
+- **Languages:** C++, Python, HTML/CSS/TypeScript, Java, C#
+- **Tools:** Git/Github, Linux, VSCode, CLion, PyCharm, Vite, Astro
+
+I'm still learning, these technologies are just the ones I have at least a bit of experience with.
