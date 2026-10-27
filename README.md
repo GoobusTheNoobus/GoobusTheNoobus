@@ -1,7 +1,6 @@
 [![Goobus' GitHub stats](https://github-stats-extended.vercel.app/api?username=goobusthenoobus)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)
 ## Hello! :D
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/GoobusTheNoobus/badge.svg)](https://hub.xerj.org/contributors/GoobusTheNoobus)  
 I'm David, and I am an (amateur) hobbyist programmer who likes building random stuff.
 
 [Personal Site](https://goobusthenoobus.github.io/PersonalSite/) · [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
