@@ -3,7 +3,7 @@
 ## Hello! :D
 I'm David, and I am an (amateur) hobbyist programmer who likes building random stuff.
 
-[Personal Site](https://goobusthenoobus.github.io/PersonalSite/) · [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
+[Personal Site](https://goobusthenoobus.github.io/PersonalSite/) (outdated, im making a new one)· [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
 
 ## About me
 - Pronouns: He/Him
@@ -12,7 +12,7 @@ I'm David, and I am an (amateur) hobbyist programmer who likes building random s
 - **Philippians 4:13** *"I can do all things through him who strengthens me."*
 
 ## Technology Stack
-- **Languages:** C++, Python, HTML/CSS/TypeScript, Java, C#
+- **Languages:** C++, Python, HTML/CSS/TypeScript, Java, C#, C and Assembly (A bit)
 - **Tools:** Git, Github, Linux, VSCode, CLion, PyCharm, Vim/NeoVim, Vite, Astro, Vue, ExcaliburJS
 
 I'm still learning, these technologies are just the ones I have at least a bit of experience with.
