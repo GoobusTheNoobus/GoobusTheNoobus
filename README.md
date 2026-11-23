@@ -1,7 +1,7 @@
 [![Goobus' GitHub stats](https://github-stats-extended.vercel.app/api?username=goobusthenoobus)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=GoobusTheNoobus&layout=compact&langs_count=6&hide_values=true&theme=light_github)
 ## Hello! :D
-I'm David, and I am a hobbyist programmer who likes building random stuff.
+I'm David, and I am a hobbyist programmer, amateur chess engine developer, and YSWS reviewer who likes building random stuff.
 
 [Personal Site](https://goobusthenoobus.github.io/PersonalSite/) (outdated, im making a new one)· [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
 
