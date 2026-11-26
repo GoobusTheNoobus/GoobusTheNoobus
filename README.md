@@ -6,7 +6,7 @@ I love minimalism (yum) and keep my code simple and readable.
 
 > "An idiot admires complexity, a genius admires simplicity" - Terry A. Davis
 
-[Personal Site](https://goobusthenoobus.github.io/PersonalSite/) (outdated, im making a new one)· [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
+[Personal Site](https://goobusthenoobus.github.io) · [Repositories](https://github.com/GoobusTheNoobus?tab=repositories)
 
 ## About me
 - Pronouns: He/Him
